@@ -11,26 +11,29 @@ Tagline: *AI-powered research tools + curious tinkering = interesting problems s
 - Name: **Pranshu** (display name: Cuprous Oxide)
 - Role: Biotech student exploring software, AI and research tooling 🧪💻
 - Location: West Bengal, India 📍
-- GitHub member since: **2025-10-28**
+- Interests: AI, Bioinformatics, Linux, Backend
 
 Bio snapshot:
 > Hey, I'm Pranshu.
->
+
 > I'm a biotech student with an unhealthy curiosity for computers.
->
-> learning, experimenting and building things that shouldn't work
+
+> curios enough to break things. Patient enough to rebuild them.
 
 Open to collaborations on research tooling, AI pipelines, and full-stack experiments. I maintain and develop GaiaOs — an AI-based research platform to help manage research workflows.
 
 ## Skills & Technologies
 
-py,ai,fastapi,pytorch,tensorflow,git,github,docker,linux,postgres,sqlite,githubactions
+<p align="left">
+  <img
+  src="https://skillicons.dev/icons?i=python,fastapi,git,github,docker,linux,neovim,bash,sqlite,postgres,markdown" />
+</p>
 
 
 ## Top Projects
 
 1. [GaiaOs](https://github.com/Pranshu-Ghosh/GaiaOs) ⭐
-   - Description: a ai based research paltform to handle all your research work
+   - Description: Building an AI-powered research workspace for scientists and students.
    - Stars: 1
    - Watchers: 1
    - Forks: 0
