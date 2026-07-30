@@ -8,8 +8,6 @@ Tagline: *AI-powered research tools + curious tinkering = interesting problems s
 
 ## About Me
 
-## About Me
-
 - Name: **Pranshu** (display name: Cuprous Oxide)
 - Role: Biotech student exploring software, AI and research tooling 🧪💻
 - Location: West Bengal, India 📍
@@ -44,8 +42,6 @@ py,ai,fastapi,pytorch,tensorflow,git,github,docker,linux,postgres,sqlite,githuba
 Notes:
 - This is the main public project on my account — an AI-centric platform focused on research workflows. I actively push updates and iterate rapidly on features and integrations. 🚧🤖
 
-## GitHub Stats
-
 ## GitHub Stats 📊
 
 - Public repositories: **1**
@@ -60,8 +56,6 @@ Badges / quick stats:
 - ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Pranshu-Ghosh&show_icons=true)
 
 (If any of the images above do not load in previews, open them directly on GitHub or Shields.)
-
-## Recent Activity
 
 ## Recent Activity 🔔
 
