@@ -1,99 +1,71 @@
-# Hi there! 👋
+<div align="center">
 
-I'm Pranshu (aka **Cuprous Oxide**). 
+<img src="./assets/banner.png" width="100%" alt="Pranshu Ghosh">
 
-Biotech student with an unhealthy curiosity for computers — building, experimenting and making things that (often) shouldn't work. 
+<br>
 
-Tagline: *AI-powered research tools + curious tinkering = interesting problems solved.* 🚀
+# PRANSHU GHOSH
 
-## About Me
+### Backend • AI/ML • Systems
 
-- Name: **Pranshu** (display name: Cuprous Oxide)
-- Role: Biotech student exploring software, AI and research tooling 🧪💻
-- Location: West Bengal, India 📍
-- Interests: AI, Bioinformatics, Linux, Backend
+*Building things. Breaking things. Understanding why they broke.*
 
-Bio snapshot:
-> Hey, I'm Pranshu.
+</div>
 
-> I'm a biotech student with an unhealthy curiosity for computers.
+---
 
-> curios enough to break things. Patient enough to rebuild them.
+<div align="center">
 
-Open to collaborations on research tooling, AI pipelines, and full-stack experiments. I maintain and develop GaiaOs — an AI-based research platform to help manage research workflows.
+> **"Build systems. Understand them."**
 
-## Skills & Technologies
+</div>
 
-<p align="left">
-  <img
-  src="https://skillicons.dev/icons?i=python,fastapi,git,github,docker,linux,neovim,bash,sqlite,postgres,markdown" />
-</p>
+<br>
 
+## 👋 Hello, I'm Pranshu
 
-## Top Projects
+I'm a developer focused on understanding what happens beneath the abstractions.
 
-1. [GaiaOs](https://github.com/Pranshu-Ghosh/GaiaOs) ⭐
-   - Description: Building an AI-powered research workspace for scientists and students.
-   - Stars: 1
-   - Watchers: 1
-   - Forks: 0
-   - Open issues: 0
-   - Primary language: Python
-   - Default branch: master
-   - Repo: https://github.com/Pranshu-Ghosh/GaiaOs
+Right now, I'm building my foundation around **Python backend development, databases,
+Linux and infrastructure**, while gradually moving toward **AI/ML and systems engineering**.
 
-Notes:
-- This is the main public project on my account — an AI-centric platform focused on research workflows. I actively push updates and iterate rapidly on features and integrations. 🚧🤖
+I care less about collecting technologies and more about understanding how the pieces
+fit together.
 
-## GitHub Stats 📊
+---
 
-- Public repositories: **1**
-- Followers: **1**
-- Following: **1**
+## 🧠 About Me
 
-Badges / quick stats:
+<table>
+<tr>
+<td width="55%" valign="top">
 
-- ![GitHub stars](https://img.shields.io/github/stars/Pranshu-Ghosh/GaiaOs?style=social)  
-- ![GitHub followers](https://img.shields.io/github/followers/Pranshu-Ghosh?style=social)  
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu-Ghosh&layout=compact)
-- ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Pranshu-Ghosh&show_icons=true)
+### What I'm interested in
 
-(If any of the images above do not load in previews, open them directly on GitHub or Shields.)
+- 🐍 Python backend development
+- ⚡ API architecture
+- 🗄️ Databases & data modelling
+- 🐳 Containers & infrastructure
+- 🐧 Linux & systems
+- 🤖 AI / ML
+- 🧬 Technology at the intersection of biology and computation
 
-## Recent Activity 🔔
+### Currently exploring
 
-Here are the latest actions from my account (most recent first):
-
-- 2026-07-25 — Push to `master` on **GaiaOs** (commit 9c2a9db) ✅
-- 2026-07-25 — Push to `master` on **GaiaOs** (commit a5b839e) ✅
-- 2026-07-24 — Push to `master` on **GaiaOs** (commit d3f8818) ✅
-- 2026-07-24 — Started watching **GaiaOs** (star/watch event) ⭐
-- 2026-07-24 — Multiple pushes to `master` on **GaiaOs** (series of commits) 🔁
-- 2026-07-14 — Created `master` branch / initial branch activities for **GaiaOs** (repo creation and early commits) 🆕
-
-Summary: most recent work is focused on active development of GaiaOs — frequent pushes and iterative improvements.
-
-## Connect with Me 🔗
-
-- GitHub: [Pranshu-Ghosh](https://github.com/Pranshu-Ghosh) 🧭
-- Location: West Bengal, India 📍
-
-Other social accounts: none listed or linked publicly. If you'd like to reach out:
-
-- Best: open an issue or discussion on [GaiaOs](https://github.com/Pranshu-Ghosh/GaiaOs) or send a message via GitHub.
-
-Quick contact badges:
-
-- ![GitHub followers](https://img.shields.io/github/followers/Pranshu-Ghosh?label=Follow&style=social)
-
-Looking to collaborate on AI + research tooling, reproducibility, and interesting crossovers between biotech and software. 🌱🧠
-
-## Currently Working On / Learning 🔭
-
-- Actively developing **GaiaOs** — improving AI integrations and research workflow automation.
-- Learning/experimenting with: MLOps patterns, model serving, reproducible research pipelines, and web APIs for research tools.
-
-If you have resources or want to collaborate on these topics, I'd love to hear from you!
+```text
+FastAPI
+   ↓
+PostgreSQL
+   ↓
+SQLAlchemy
+   ↓
+Docker
+   ↓
+Linux
+   ↓
+Kubernetes
+   ↓
+AI / ML
 
 
 
