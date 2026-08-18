@@ -17,7 +17,7 @@ Building things that shouldn't work in the field of life
 
 ##  <h2 align="center">🚀 About Me </h2>
 
-<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
+<img align="right" src="./assets/b6bd7048201f1c93f1c4804cfd8aeac0.jpg" width="280" alt="Developer Illustration"/>
 
 **Cuprous**, Here  — Currently a 1st year student in biotech.
 
