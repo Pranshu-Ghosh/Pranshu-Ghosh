@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
+  <img src="./assets/d7b005a8d6e39f18f86a24b439923d86.jpg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranshu aka Cuprous Oxide </h1>
